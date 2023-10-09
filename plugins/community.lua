@@ -6,6 +6,7 @@ return {
 
   { import = "astrocommunity.colorscheme.sonokai" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
-  { import = "astrocommunity.pack.go"},
-  { import = "astrocommunity.git.neogit"},
+  { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.terminal-integration/flatten-nvim" },
+  { import = "astrocommunity.git.neogit" },
 }
