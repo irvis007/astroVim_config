@@ -6,15 +6,12 @@ return {
       "lua",
       "go",
       "bash",
-      "dockerfile",
       "dot",
       "ini",
       "jq",
       "json",
       "regex",
-      "terraform",
       "vim",
-      "yaml",
     })
   end,
 }
